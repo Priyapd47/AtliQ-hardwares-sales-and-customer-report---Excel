@@ -40,3 +40,6 @@ Comprehensive understanding of Sales & Finance Reports.
 Designing user-centric reports with empathy.
 Optimizing report generation through meticulous fine-tuning.
 Developing a systematic approach to creating report-building plans.
+
+You can find the full project results [here](https://github.com/Priyapd47/AtliQ-hardwares-sales-and-customer-report---Excel)
+
