@@ -1,8 +1,12 @@
 # Data-analysis-projects
+Created a Sales report for AtliQ Hardwares
+
+AtliQ Business Model:
+
+🔹 Hardware company that sell peripherals like PC, Mouse, Keyboard , Printers to Clients across the world.
+
 Sales And Finance Analytics Of AtliQ Hardwares:
-
 Sales Report:
-
 Project Goals:
 
 Customer Performance Report: Created a detailed report to assess customer performance.
@@ -36,6 +40,3 @@ Comprehensive understanding of Sales & Finance Reports.
 Designing user-centric reports with empathy.
 Optimizing report generation through meticulous fine-tuning.
 Developing a systematic approach to creating report-building plans.
-Find the detailed project reports here.
-
-Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
